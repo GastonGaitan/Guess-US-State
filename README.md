@@ -9,3 +9,4 @@ Instructions:
 - If the state exists, the program will write its name in the map.
 - I have added other features such as letting the user know when the country does not exist or if it has already been guessed.
 - The game will be saved. If a state has been guessed, when the game is opened again, you can continue where you had finished.
+- If "Exit" is sent as an input, the program will be closed and saved.
